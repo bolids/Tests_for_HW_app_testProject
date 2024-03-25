@@ -1,2 +1,2 @@
-# Test_for_HW_app_testProject
+# Tests_for_HW_app_testProject
 Test_for_HW_app_testProject
