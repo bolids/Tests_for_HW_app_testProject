@@ -1,7 +1,7 @@
 import Calculator from '../src/calculator';
 //Arrange
 
-const calc = new Calculator();
+//const calc = new Calculator();
 
 describe("Math suite", () => {
 
