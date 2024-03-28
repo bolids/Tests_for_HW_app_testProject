@@ -1,6 +1,8 @@
 import Calculator from '../src/calculator';
 //Arrange
 
+const calc = new Calculator();
+
 describe("Math suite", () => {
 
   test("add two positive numbers, and expect the result to be the correct one", () => {
