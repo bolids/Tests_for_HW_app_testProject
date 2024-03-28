@@ -1,4 +1,4 @@
-import Calculator from '../../src/calculator';
+import Calculator from '../../HW_app_testProject/src/calculator';
 //Arrange
 
 const calc = new Calculator();
